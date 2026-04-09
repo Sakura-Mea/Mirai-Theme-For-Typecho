@@ -6,6 +6,7 @@ Mirai 不仅是一套功能完备的 **Typecho 商业主题**，更是一站式"
 [https://www.sukuy.com](https://www.sukuy.com "https://www.sukuy.com")
 
 **QQ交流群**：1095102565
+
 **QQ**：1461139506
 
 ## Mirai 主题预览
