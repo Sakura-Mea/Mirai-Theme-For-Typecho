@@ -2,7 +2,10 @@
 
 Mirai 不仅是一套功能完备的 **Typecho 商业主题**，更是一站式"**内容变现 + 用户社区**"解决方案。在架构层面进行了极致的性能优化，同时严格遵循百度、谷歌、必应等主流搜索引擎的 SEO 最佳实践。
 
+
 **主题演示站：[https://mirai.sukuy.com](https://mirai.sukuy.com "https://mirai.sukuy.com")**
+
+**主题介绍：[https://www.sukuy.com/mirai-theme](https://www.sukuy.com/mirai-theme**
 
 **作者微信：Sakura1086**
 
